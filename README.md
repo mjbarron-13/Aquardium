@@ -1,16 +1,20 @@
 # aquardium_app
 
-A new Flutter project.
+# Main features:
+Feeding Tab:
+ - users can specify how long before each dispenser interval
+ - users can determine how much fish feed can be dispensed in the given interval
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Temp and Turbidity Tab:
+  - users can view temp and turbidity readings
+  - users can view records of high readings of both temp and turbidity
 
-A few resources to get you started if this is your first Flutter project:
+# To be added/considered
+Urgent:
+  - users can view in the feeding tab the records of the feeding time and amount dispensed
+  - notifications for both feed depletion and extreme duration of high records
+  - push notifications
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
